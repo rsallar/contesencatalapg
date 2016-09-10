@@ -24,10 +24,10 @@
 		<preference name="android-minSdkVersion" value="17" />
 		<preference name="android-targetSdkVersion" value="24" />
     </platform>
-    <!-- <platform name="ios">
+     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
-    </platform>-->
+    </platform>
     <engine name="android" spec="~5.1.1" />
 	<icon src="res/icon.png" />
 
